@@ -1,0 +1,2 @@
+D:/SMIT Projects/talk_app/android/app/.cxx/Debug/5x6lq2i0/x86_64/CMakeFiles/edit_cache.dir
+D:/SMIT Projects/talk_app/android/app/.cxx/Debug/5x6lq2i0/x86_64/CMakeFiles/rebuild_cache.dir
